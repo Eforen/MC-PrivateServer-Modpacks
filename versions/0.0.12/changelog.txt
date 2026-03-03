@@ -1,0 +1,7 @@
+Added 2 new mods
+
+# Changes
+* Added this mod providing this changelog and update notifications
+* Added `Create: Blocks & Bogies`
+* Updated Crash Assistant modlist
+* Added `EvilCraft`
